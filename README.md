@@ -1,3 +1,3 @@
-# practice_cpp
+# cpp-misc
 
-This repository contains beginner level c++ files mainly for personal testing and learning.
+This repository contains C++ files for personal testing and learning.
